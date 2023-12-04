@@ -31,7 +31,7 @@ Make alarm at 9:30 PM with message and skip true
 
 ```dart
 import 'package:ez_alarm/ez_alarm.dart';
-ez_alarm().set_alarm('Message', 21, 30, true);
+Ez_Alarm().set_Alarm('Message', 21, 30, true);
 ```
 
 'Message' : message in your alarm

@@ -59,7 +59,7 @@ class _MyHomePageState extends State<MyHomePage> {
   int _counter = 0;
 
   void _alarm() {
-    ez_alarm().set_alarm('Tes', 16, 33, true);
+    Ez_Alarm().set_Alarm('Tes', 16, 33, true);
   }
 
   @override
