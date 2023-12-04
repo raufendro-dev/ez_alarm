@@ -4,7 +4,7 @@ version: 0.0.1
 homepage: null
 repository:
   type: git
-  url: https://github.com/raufendro-dev/ez_alarm
+  url: "https://github.com/raufendro-dev/ez_alarm"
 
 environment:
   sdk: '>=3.2.2 <4.0.0'
